@@ -4,8 +4,10 @@
 
 1. [C#笔记](/Notes/csharp)
 
-2. [网络](/Notes/network)
+2. [SQL笔记](/Notes/sql)
 
-3. [工具](/Notes/tool)
+3. 
 
-4. 
+4. [网络](/Notes/network)
+
+5. [工具](/Notes/tool)
