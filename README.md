@@ -6,8 +6,6 @@
 
 2. [SQL笔记](/Notes/sql)
 
-3. 
+3. [网络](/Notes/network)
 
-4. [网络](/Notes/network)
-
-5. [工具](/Notes/tool)
+4. [工具](/Notes/tool)
