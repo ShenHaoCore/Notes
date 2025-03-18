@@ -46,7 +46,7 @@ del("Hello, Multiple Methods!");
 
 void ShowAnotherMessage(string message) 
 { 
-    Console.WriteLine("Another message: " + message);
+    Console.WriteLine("Another message: " + message);
 }
 ```
 
@@ -187,4 +187,3 @@ public class EventExample
 * **委托**：是一种类型，它表示对一个方法的引用，可以动态调用方法，支持多播。
 * **事件**：是基于委托的，它封装了委托，并限制了委托的触发只能在发布者内部进行，避免外部代码直接触发事件。
 * **事件与委托的关系**：事件依赖于委托，委托定义事件的签名，而事件通过 `+=` 和 `-=` 让订阅者和发布者之间解耦，简化了事件处理和订阅管理。
-  
