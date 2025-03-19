@@ -4,5 +4,3 @@
 
 1. [GIT](/Notes/tool/git)
 2. [Redis](/Notes/tool/redis)
-
-
