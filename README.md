@@ -4,7 +4,7 @@
 
 ## C#
 
-[委托](/Notes/CSharp/Delegate) [微秒级定时器](/Notes/CSharp/TimerProgram) [面试问题](/Notes/Question) 
+[委托](/Notes/CSharp/Delegate) [微秒级定时器](/Notes/CSharp/TimerProgram) [面试问题](/Notes/question) 
 
 ## MSSQL
 
